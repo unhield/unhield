@@ -66,10 +66,10 @@ Research Areas:
 
 ## Education
 
-🎓 MBA (Business Analytics)
-Parul University
+🎓 MBA (Business Analytics):
+Parul University, India
 
-🌏 Semester Exchange Program
+🌏 Semester Exchange Program:
 INTI International University, Malaysia
 
 ---
@@ -107,7 +107,7 @@ Building a portfolio of business-focused analytics projects that combine data en
 ## Connect
 
 LinkedIn:
-linkedin.com/in/rajoshi0408
+https://linkedin.com/in/rajoshi0408
 
 GitHub:
-github.com/unhield
+https://github.com/unhield
