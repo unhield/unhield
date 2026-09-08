@@ -1,195 +1,328 @@
 <div align="center">
 
-# Raj Joshi
+<a href="https://github.com/unhield">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=RAJ%20JOSHI&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Business%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Data%20%26%20Research&descAlignY=58&descSize=17" width="100%" />
+</a>
 
-### Business Analytics | Business Intelligence | Research & Data-Driven Decision Making
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Turning+data+into+decisions.;Building+analytics+systems+that+drive+growth.;Researching+consumer+behavior+and+neuromarketing.;Engineering+open-source+code+intelligence." alt="Typing SVG" />
+</a>
 
-Turning complex data and business problems into actionable insights, strategic decisions, and practical solutions.
+<br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-UnHield-181717?style=for-the-badge&logo=github)](https://github.com/unhield)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Joshi-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rajoshi0408)
+<img src="https://img.shields.io/badge/MBA-Business%20Analytics-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Exchange-INTI%20International%20University-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Research-Published-5B21B6?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Gujarat%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<br /><br />
+
+<a href="https://www.rajjoshi.dev/"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rajjoshi0408"><img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rajjoshi.pu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/unhield"><img src="https://img.shields.io/badge/GitHub-unhield-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=unhield&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/unhield?style=flat-square&color=4C1D95&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/unhield?style=flat-square&color=5B21B6&label=STARS" />
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm an **MBA in Business Analytics** with international academic experience through a semester exchange at **INTI International University, Malaysia**, and published research in **consumer behavior and neuromarketing**.
+I am an **MBA in Business Analytics** focused on **business intelligence, data-driven decision making, market research, and analytical problem solving**. My work sits at the intersection of business strategy, quantitative analysis, product thinking, and technology.
 
-My interests and work span:
+I work with **SQL, Python, R, Power BI, Tableau, SPSS, PostgreSQL, and advanced Excel** to turn complex data into actionable insights across customer analytics, forecasting, performance optimization, retention, and growth.
 
-- Business Analytics
-- Business Intelligence
-- Customer Analytics
-- Market Research
-- Consumer Behavior
-- Strategic Analysis
-- Data-Driven Decision Making
-- Data Visualization & Reporting
+Alongside analytics, I am developing **Limoxel — Engineering Knowledge Infrastructure (EKI)**, an open-source platform written in Go that transforms source code into structured engineering knowledge through repository-wide code intelligence, semantic search, dependency analysis, and AI-assisted software understanding.
 
-I enjoy working on problems where data needs to be transformed into something useful for **business decisions, growth, performance, and strategy**.
+My research background includes a published study on **neuromarketing, consumer decision-making, marketing effectiveness, and brand trust**, based on mixed-method research involving 150 respondents.
+
+**Open to:** Business Analytics • Business Intelligence • Data Analytics • Market Research • Customer Analytics • Product Analytics • Research • Data-Driven Strategy • Analytics Engineering
+
+---
+
+## Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,go,postgresql" />
+</p>
+
+### Analytics & Visualization
+<p>
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/SPSS-111827?style=for-the-badge&logo=ibm&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=A78BFA" />
+</p>
+
+### Backend, Data & Systems
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,git,github" />
+<img src="https://img.shields.io/badge/Tree--sitter-111827?style=for-the-badge&logo=tree-sitter&logoColor=A78BFA" />
+</p>
+
+### Tooling & Productivity
+<p>
+<img src="https://skillicons.dev/icons?i=github,vscode" />
+<img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Microsoft%20Office-111827?style=for-the-badge&logo=microsoft&logoColor=A78BFA" />
+</p>
+
+---
+
+## AI / ML & Analytical Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Business Intelligence | Advanced | KPI reporting, dashboard development, executive reporting, performance analysis |
+| SQL & Data Analysis | Advanced | Querying, data preparation, analytical modeling, PostgreSQL data warehousing |
+| Statistical Analysis | Advanced | Statistical analysis, research methodology, consumer analytics |
+| Predictive Analytics | Working | Churn prediction, forecasting, customer analytics |
+| Customer Analytics | Advanced | Segmentation, churn analytics, CLTV modeling, retention economics |
+| Data Visualization | Advanced | Power BI, Tableau, data storytelling, decision-oriented dashboards |
+| Market & Consumer Research | Advanced | Market research, consumer behavior, mixed-method research |
+| Neuromarketing Research | Research | Consumer decision-making, marketing effectiveness, brand trust |
+| Code Intelligence & AI-assisted Software Understanding | Developing | Semantic search, dependency analysis, static analysis, structured engineering knowledge |
 
 ---
 
 ## Featured Projects
 
-### 📊 Customer Growth Strategy Engine
+<details>
+<summary><strong>Customer Growth Strategy Engine</strong> — Customer Intelligence & Revenue Optimization</summary>
 
-**Enterprise Customer Intelligence & Executive Decision Support Platform**
+<br />
 
-`PostgreSQL` · `SQL` · `Python` · `Power BI` · `Customer Analytics` · `Churn Analytics` · `CLTV`
+An end-to-end customer intelligence platform combining **customer segmentation, churn prediction, CLTV analysis, retention economics, and capital allocation modeling** to support growth and revenue optimization.
 
-An end-to-end customer intelligence platform combining customer and transaction data to support growth, retention, and revenue optimization decisions.
+| Dimension | Implementation |
+|---|---|
+| Stack | PostgreSQL • SQL • Python • Power BI |
+| Scale | Customer & transaction analytics platform |
+| Performance | Designed around reusable analytical workflows and executive dashboards |
+| Security | PostgreSQL-based data architecture with controlled analytical access |
+| Impact | Converts customer data into retention, growth, and revenue optimization strategies |
+| Repository | [GitHub](https://github.com/unhield/Customer_Growth_Strategy_Engine) |
 
-**Key capabilities:**
+**Engineering / analytical scope**
+- Built a PostgreSQL data warehouse for customer and transaction data.
+- Combined segmentation, churn analytics, CLTV, retention economics, and capital allocation.
+- Developed executive Power BI dashboards for decision support.
+- Framed analytical outputs around actionable growth and retention decisions.
 
-- Customer Segmentation
-- Churn Risk Assessment
-- Customer Lifetime Value (CLTV)
-- Retention Economics
-- Customer Capital Allocation
-- Geographic Retention Strategy
-- Executive Decision Intelligence
-- PostgreSQL Data Warehouse
-- SQL Analytics
-- Python Analytics
-- Executive Power BI Dashboards
+</details>
 
-🔗 **Repository:**  
-https://github.com/unhield/Customer_Growth_Strategy_Engine
+<br />
 
----
+<details>
+<summary><strong>Limoxel — Engineering Knowledge Infrastructure (EKI)</strong> — Open-Source Code Intelligence Platform</summary>
 
-### ⚙️ Limoxel
+<br />
 
-**Engineering Knowledge Infrastructure (EKI)** · `v1.0.1 Stable`
+**Ongoing — v1.4.0 — SDK & API Release**
 
-`Go` · `Software Architecture` · `Systems Design` · `Program Analysis` · `Dependency Analysis` · `Git` · `GitHub`
+Limoxel is an open-source **Engineering Knowledge Infrastructure (EKI)** platform designed to transform source code into structured engineering knowledge, enabling repository-wide code intelligence and AI-assisted software understanding.
 
-An ongoing open-source project focused on building an Engineering Knowledge Infrastructure that transforms software repositories into structured engineering knowledge.
+| Dimension | Implementation |
+|---|---|
+| Stack | Go • Tree-sitter • Git • GitHub |
+| Scale | Repository-wide engineering knowledge infrastructure |
+| Performance | Modular architecture for scalable program and dependency analysis |
+| Security | Engineering-focused static analysis and structured repository processing |
+| Impact | Enables semantic search, dependency analysis, code intelligence, and AI-assisted understanding |
+| Repository | [GitHub](https://github.com/unhield/limoxel) |
 
-The project explores repository-wide code intelligence, semantic search, dependency analysis, knowledge representation, and future AI-assisted software understanding.
+**Engineering scope**
+- Designing and developing the EKI architecture.
+- Building source-code analysis and structured knowledge workflows.
+- Exploring semantic search, dependency graphs, graph algorithms, and program analysis.
+- Developing SDK/API capabilities for broader integration.
 
-**Current status:**
-
-- `v1.0.1` Stable Release
-- Phase 1 Core Engine completed and frozen
-- Phase 2+ development roadmap established
-
-🔗 **Repository:**  
-https://github.com/unhield/limoxel
-
----
-
-## Research Publication
-
-### 🧠 Impact of Neuromarketing on the Success of Marketing Strategies among Consumers
-
-**JAAFR — Journal of Advance and Future Research**  
-Vol. 4 · Issue 4 · 2026 · pp. 920–927  
-ISSN: 2984-889X
-
-Research examining the impact of neuromarketing techniques on consumer decision-making, marketing effectiveness, brand trust, and ethical considerations.
-
-**Research areas:**
-
-- Consumer Behavior
-- Neuromarketing
-- Marketing Effectiveness
-- Brand Trust
-- Strategic Decision Making
-- Marketing Ethics
+</details>
 
 ---
 
-## Skills
+## Experience
 
-### Analytics & Business Intelligence
+### Open-Source Engineering & Analytics Projects
+**Independent / Project-Based** | 2024 – Present
 
-`SQL` `Python` `R` `Power BI` `Tableau` `SPSS`
+Building analytical and engineering projects that connect business problems with practical data and software systems.
 
-### Data Analysis & Visualization
+- Develop end-to-end business intelligence workflows from raw data to decision-ready dashboards.
+- Apply customer analytics, churn analysis, CLTV modeling, and retention economics to growth problems.
+- Design and develop Limoxel as an open-source engineering knowledge platform.
+- Combine analytical reasoning with software architecture, systems design, and structured problem solving.
 
-`Advanced Excel` `Data Analysis` `Data Cleaning` `Statistical Analysis` `Predictive Analytics` `Data Visualization` `Data Storytelling` `Dashboard Development` `KPI Reporting`
+**Skills:** SQL • Python • PostgreSQL • Power BI • Go • Data Analytics • Business Intelligence • Research • Systems Design
 
-### Business & Research
+### Leadership & Community Engagement
 
-`Business Analytics` `Business Intelligence` `Customer Analytics` `Market Research` `Consumer Analytics` `Business Research` `Strategic Analysis` `Data-Driven Decision Making` `Business Problem Solving`
+**Perplexity Campus Partner — Perplexity AI, Inc.**
+- Supported campus engagement and AI community initiatives.
 
-### Tools & Platforms
-
-`PostgreSQL` `Git` `GitHub` `Jupyter Notebook` `Canva` `Microsoft Office`
+**Internshala Student Partner — Internshala**
+- Supported student outreach and career development initiatives.
 
 ---
 
-## Education
+## Achievements
 
-🎓 **Master of Business Administration — Business Analytics**  
-**Parul University** · Vadodara, Gujarat, India  
-2024 – 2026
+<div align="center">
 
-🌏 **MBA Semester Exchange Program**  
-**INTI International University** · Nilai, Malaysia  
-January 2025 – May 2025
+| Recognition | Details |
+|---|---|
+| 🏆 Vadodara Hackathon 5.0 | Top 45 Teams |
+| 🌏 International Academic Experience | MBA Semester Exchange — INTI International University, Malaysia |
+| 📚 Published Research | JAAFR, Vol. 4, Issue 4, 2026 |
+| 🔬 Research Sample | Mixed-method study involving 150 respondents |
+| 🚀 Open Source | Limoxel — Engineering Knowledge Infrastructure |
 
-🎓 **Bachelor of Business Administration**  
-**Shree R. P. Bhalodia College — Saurashtra University** · Rajkot, Gujarat, India  
-2021 – 2024
+</div>
 
 ---
 
 ## Certifications
 
-- **Google Advanced Data Analytics Professional Certificate** — Coursera
-- **Google Business Intelligence Professional Certificate** — Coursera
-- **McKinsey Forward Program** — McKinsey.org
-- **TEFL Professional Certification** — TeacherRecord
-- **Data Analysis with Python** — freeCodeCamp
-- **Scientific Computing with Python** — freeCodeCamp
+### Google / Coursera
+[![Google Advanced Data Analytics](https://img.shields.io/badge/Google-Advanced%20Data%20Analytics-6D28D9?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/verify/professional-cert/EJZCKLM552WU)
+[![Google Business Intelligence](https://img.shields.io/badge/Google-Business%20Intelligence-4C1D95?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/verify/professional-cert/SETY6GQZ7T3Y)
+
+### McKinsey
+[![McKinsey Forward](https://img.shields.io/badge/McKinsey-Forward%20Program-312E81?style=for-the-badge&logo=mckinsey&logoColor=white)](https://www.credly.com/badges/03a2a89f-9add-40a5-93fc-ed4d11cae435/)
+
+### TeacherRecord
+[![TEFL](https://img.shields.io/badge/TeacherRecord-TEFL%20Professional-5B21B6?style=for-the-badge)](https://teacherrecord.com/checking/TR2728903078)
+
+### freeCodeCamp
+[![Data Analysis with Python](https://img.shields.io/badge/freeCodeCamp-Data%20Analysis%20with%20Python-6D28D9?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/rajjoshi0408/data-analysis-with-python-v7)
+[![Scientific Computing with Python](https://img.shields.io/badge/freeCodeCamp-Scientific%20Computing%20with%20Python-4C1D95?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/rajjoshi0408/scientific-computing-with-python-v7)
 
 ---
 
-## Leadership & Engagement
+## Coding Profiles
 
-**Perplexity Campus Partner**  
-Campus engagement and AI community initiatives.
+<div align="center">
 
-**Internshala Student Partner**  
-Student outreach and career development initiatives.
+<a href="https://github.com/unhield">
+<img src="https://img.shields.io/badge/GitHub-Open%20Source-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Vadodara Hackathon 5.0**  
-🏆 Top 45 Teams
+<br /><br />
+
+LeetCode • GeeksforGeeks • HackerRank • CodeChef profiles were not included in the supplied profile materials.
+
+</div>
 
 ---
 
-## Languages
+## GitHub Analytics
 
-- 🇬🇧 English — Proficient
-- 🇮🇳 Hindi — Proficient
-- 🇮🇳 Gujarati — Native
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=unhield&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=6d28d9" height="180" />
+<img src="https://streak-stats.demolab.com?user=unhield&hide_border=true&background=0D1117&ring=6D28D9&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unhield&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" height="180" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=unhield&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=unhield&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=a78bfa&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/unhield/unhield/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+</div>
 
 ---
 
 ## Current Focus
 
-I'm currently focused on building a stronger portfolio across:
+```yaml
+profile:
+  name: Raj Joshi
+  focus: "Business Analytics, Business Intelligence, Research & Data-Driven Decision Making"
+  location: "Gujarat, India"
+  mobility: "Open to Relocation"
 
-**Business Analytics → Customer Intelligence → Strategic Decision Making**
+learning:
+  - "Advanced analytics and predictive modeling"
+  - "Analytics engineering and scalable data workflows"
+  - "Software architecture and code intelligence"
 
-while continuing to explore research and technical projects that expand my ability to solve complex analytical and business problems.
+building:
+  - "Limoxel — Engineering Knowledge Infrastructure (EKI)"
+  - "Customer intelligence and growth analytics systems"
+
+exploring:
+  - "AI-assisted software understanding"
+  - "Semantic search and dependency analysis"
+  - "Consumer analytics and neuromarketing research"
+
+open_to:
+  - "Business Analytics"
+  - "Business Intelligence"
+  - "Data Analytics"
+  - "Market Research"
+  - "Customer / Product Analytics"
+  - "Research"
+  - "Data-Driven Strategy"
+  - "Analytics Engineering"
+```
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Joshi-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rajoshi0408)
-[![GitHub](https://img.shields.io/badge/GitHub-UnHield-181717?style=flat-square&logo=github)](https://github.com/unhield)
+<div align="center">
+
+<a href="mailto:rajjoshi.pu@gmail.com"><img src="https://img.shields.io/badge/Gmail-rajjoshi.pu%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rajjoshi0408"><img src="https://img.shields.io/badge/LinkedIn-rajjoshi0408-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/unhield"><img src="https://img.shields.io/badge/GitHub-unhield-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.rajjoshi.dev/"><img src="https://img.shields.io/badge/Portfolio-rajjoshi.dev-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+
+</div>
 
 ---
 
 <div align="center">
 
-**Data • Insight • Strategy • Research**
+> **"Turn complex data into clear decisions. Build systems that make those decisions scalable."**
+
+<a href="https://github.com/unhield">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=120&section=footer" width="100%" />
+</a>
 
 </div>
